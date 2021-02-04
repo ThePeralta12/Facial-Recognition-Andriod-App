@@ -1,0 +1,1 @@
+This Python script is not part of the project.  I made it so interacting and testing of the API end points will be easier 
